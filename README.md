@@ -19,7 +19,7 @@ I’m Ezra Ogidan, a full-stack developer and founder of hospitallia.africa unde
 [![](https://visitcount.itsvg.in/api?id=Prince-hubbard&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  #[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/princehubbard) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/princehubbard) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
