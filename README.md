@@ -42,7 +42,6 @@ Key engineering highlights include:
 
 As the sole engineer, I was responsible for the platform’s architecture, backend development, infrastructure, deployment, security, payment integration, and long-term technical direction.
 
-⸻
 
 💻 Tech Stack
 
@@ -94,8 +93,9 @@ Cloud & Deployment
 * Vercel
 * Netlify
 * Heroku
+* VPS
 
-⸻
+
 
 🌍 Connect With Me
 
@@ -105,13 +105,13 @@ Cloud & Deployment
 * 🐦 X: https://x.com/Hubbard001
 * 📸 Instagram: https://instagram.com/prince_hubard
 
-⸻
+
 
 📊 GitHub Statistics
 
 <!-- GitHub Stats -->
 
-⸻
+
 
 📖 Engineering Philosophy
 
